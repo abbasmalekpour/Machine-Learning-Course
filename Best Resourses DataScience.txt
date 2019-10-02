@@ -1,0 +1,33 @@
+Dr. Naser Razavi (Farsi)
+https://www.youtube.com/channel/UCNJavFPJ16jeMP3zeviAJbQ/playlists
+
+Machine Learning A-Z™: Hands-On Python & R In Data Science
+https://www.udemy.com/course/machinelearning/
+
+
+Andrew Ng Stanford Univerciy
+https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+
+
+Python CheatSheet
+https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_all.pdf
+
+
+ML Exercises
+https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/
+
+Vector intro for linear algebra, and Multivariable Calculus (khan Academy)
+https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra
+https://www.khanacademy.org/math/multivariable-calculus
+
+
+Books:
+1 Think stats
+Think bayes
+Probablility_handout
+matrix cook book
+Introduction to Statistical Learning (By: Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani)
+
+Very good internet source
+https://medium.com/
+https://www.kaggle.com/
