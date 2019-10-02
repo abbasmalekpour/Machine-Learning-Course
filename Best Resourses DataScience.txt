@@ -22,7 +22,7 @@ https://www.khanacademy.org/math/multivariable-calculus
 
 
 Books:
-1 Think stats
+Think stats
 Think bayes
 Probablility_handout
 matrix cook book
